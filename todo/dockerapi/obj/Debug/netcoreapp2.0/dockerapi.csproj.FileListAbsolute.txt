@@ -1,0 +1,10 @@
+C:\Users\5658438\todo\dockerapi\bin\Debug\netcoreapp2.0\dockerapi.deps.json
+C:\Users\5658438\todo\dockerapi\bin\Debug\netcoreapp2.0\dockerapi.runtimeconfig.json
+C:\Users\5658438\todo\dockerapi\bin\Debug\netcoreapp2.0\dockerapi.runtimeconfig.dev.json
+C:\Users\5658438\todo\dockerapi\bin\Debug\netcoreapp2.0\dockerapi.dll
+C:\Users\5658438\todo\dockerapi\bin\Debug\netcoreapp2.0\dockerapi.pdb
+C:\Users\5658438\todo\dockerapi\obj\Debug\netcoreapp2.0\dockerapi.csproj.CoreCompileInputs.cache
+C:\Users\5658438\todo\dockerapi\obj\Debug\netcoreapp2.0\dockerapi.AssemblyInfoInputs.cache
+C:\Users\5658438\todo\dockerapi\obj\Debug\netcoreapp2.0\dockerapi.AssemblyInfo.cs
+C:\Users\5658438\todo\dockerapi\obj\Debug\netcoreapp2.0\dockerapi.dll
+C:\Users\5658438\todo\dockerapi\obj\Debug\netcoreapp2.0\dockerapi.pdb
