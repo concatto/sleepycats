@@ -1,0 +1,14 @@
+/home/concatto/sleepycats/todo-lia/bin/Release/netcoreapp2.2/todo-lia.deps.json
+/home/concatto/sleepycats/todo-lia/bin/Release/netcoreapp2.2/todo-lia.runtimeconfig.json
+/home/concatto/sleepycats/todo-lia/bin/Release/netcoreapp2.2/todo-lia.runtimeconfig.dev.json
+/home/concatto/sleepycats/todo-lia/bin/Release/netcoreapp2.2/todo-lia.dll
+/home/concatto/sleepycats/todo-lia/bin/Release/netcoreapp2.2/todo-lia.pdb
+/home/concatto/sleepycats/todo-lia/obj/Release/netcoreapp2.2/todo-lia.csprojAssemblyReference.cache
+/home/concatto/sleepycats/todo-lia/obj/Release/netcoreapp2.2/todo-lia.csproj.CoreCompileInputs.cache
+/home/concatto/sleepycats/todo-lia/obj/Release/netcoreapp2.2/todo-lia.RazorAssemblyInfo.cache
+/home/concatto/sleepycats/todo-lia/obj/Release/netcoreapp2.2/todo-lia.RazorAssemblyInfo.cs
+/home/concatto/sleepycats/todo-lia/obj/Release/netcoreapp2.2/todo-lia.AssemblyInfoInputs.cache
+/home/concatto/sleepycats/todo-lia/obj/Release/netcoreapp2.2/todo-lia.AssemblyInfo.cs
+/home/concatto/sleepycats/todo-lia/obj/Release/netcoreapp2.2/todo-lia.RazorTargetAssemblyInfo.cache
+/home/concatto/sleepycats/todo-lia/obj/Release/netcoreapp2.2/todo-lia.dll
+/home/concatto/sleepycats/todo-lia/obj/Release/netcoreapp2.2/todo-lia.pdb
